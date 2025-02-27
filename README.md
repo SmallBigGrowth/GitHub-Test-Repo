@@ -107,6 +107,8 @@ Write tests for:
 - Share the GitHub repo link.
 
 ---
+## **Deployment**
+- Deploy on any platform you like, vercel, heroku, etc.
 
 This test evaluates **real-world skills** needed for a frontend React developer role. 🚀  
 Would you like any modifications or additional complexity?
